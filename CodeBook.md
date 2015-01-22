@@ -51,6 +51,7 @@ Build one R script that does the following:
 
 ##`run_analysis.R`
 The `run_analysis.R` script will complete the above steps by:
+
 1. Loading the necessary data from the working directory
 2. Merge the test data into a single data set
 3. Merge the train data into a single data set
