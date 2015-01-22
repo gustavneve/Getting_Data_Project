@@ -29,6 +29,7 @@ For each record in the dataset it is provided:
 #The Data Set
 
 There are 10 files used in this project.
+
 1. README.txt - Contains basic description of the data set
 2. activity_labels.txt - Contains the activity label (numeric) and its description
 3. features.txt - List of features used in the train and test files
@@ -41,6 +42,7 @@ Other files, contained in an Inertial Signals directory under test and train, ha
 ##Required steps to manipulate data
 
 Build one R script that does the following:
+
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
